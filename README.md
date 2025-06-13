@@ -56,7 +56,7 @@ by MC525D5X0112, MC525D5Y0147, MC525D5X0133
 - BackEnd & FrontEnd
 https://github.com/Faizz-spec/BackEnd-stunting
 by FC525D5Y0158
-https://github.com/AchmadMuchtaromZaydi/front_end_stunting/tree/main
+https://github.com/AchmadMuchtaromZaydi/front_end_stunting
 by FC525D5Y0159, FC525D5Y0433
 
 ## 👥 Anggota Tim (CC25-CF271)
